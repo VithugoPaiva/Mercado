@@ -1,0 +1,21 @@
+.nav-link {
+    display: flex;
+    align-items: center;
+}
+.nav-link .bi {
+    margin-left: 5px;
+}
+.carousel-item img {
+    max-height: 300px;
+    width: 100%; 
+    object-fit: contain; 
+}
+.carousel-caption {
+    position: static;
+    background-color: black
+}
+.my-img{
+    height: 100px;
+    width: 100px;
+    margin-right: 10px;
+}
